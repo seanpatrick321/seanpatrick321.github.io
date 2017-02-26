@@ -1,0 +1,121 @@
+body {
+    padding-top: 50px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    padding-bottom: 20px;
+    font-size: 30px;
+    line-height: 49px;
+    border-bottom: 3px solid #ddd;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    font-weight: 700;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    line-height: 22px;
+}
+
+p {
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #777;
+    line-height: 34px;
+    vertical-align: baseline;
+    float: right: ;
+}
+
+.navbar-default .navbar-brand {
+    width: 250px;
+    height: 90px;
+    float: left;
+    text-align: center;
+    line-height: 90px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 30px;
+    text-decoration: none;
+    background: #4aaaa5;
+    padding: 0;
+}
+
+.navbar-nav {
+    float: right;
+    padding-top: 2em font-size: 17px;
+}
+
+.navbar-default {
+    background-color: #fff;
+    height: 6.5em;
+}
+
+ul.nav.navbar-nav {
+    font-size: 18px;
+    margin: 22px 80px 0px 0px;
+}
+
+#aboutsean {
+    margin: 7em 0em 0em 2em
+}
+
+.col-xs-12.col-md-6 {
+    border: 1px solid #ddd;
+    height: 32em;
+    margin-top: 8em;
+    margin-left: 4em
+}
+
+
+}
+.multiple {
+    margin: 10em 0 0 0;
+}
+.col-xs-6.col-md-3 {
+    border: 1px solid #ddd;
+    margin-top: 8em;
+    margin-left: 11em;
+    width: 18em;
+    height: 13em;
+}
+.footer {
+    padding: 30px 0;
+    clear: both;
+    color: #fff;
+    color: #ccc;
+    font-size: 12px;
+    text-align: center;
+    background: #666;
+    border-top: 8px solid #4aaaa5;
+    clear: both;
+}
+.work {
+    position: relative;
+    overflow: auto;
+    float: left;
+}
+.work2 {
+    position: relative;
+    overflow: auto;
+    float: left;
+}
+.work3 {
+    position: relative;
+    overflow: auto;
+    float: right;
+}
+.work4 {
+    position: relative;
+    overflow: auto;
+    float: left;
+}
